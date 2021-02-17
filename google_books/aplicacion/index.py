@@ -34,6 +34,7 @@ class Index():
         informacion = ("<p>" + imagen + "<p> Nombre: " + libro_name  + "<p> Autor: " + nombre_autor)
         return (link + informacion)
 
+
         
 
         
