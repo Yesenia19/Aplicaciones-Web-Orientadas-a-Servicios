@@ -1,0 +1,25 @@
+$def with(zodiaco)
+<html>
+    <head>
+      <title> API Zodiaco </title>
+      <h1>Zodiaco</h1>
+      <style type="text/css">
+      body {
+      color: Black;
+      
+      background-image: url(https://cdn.pixabay.com/photo/2016/09/21/20/47/texture-1685624_960_720.jpg);
+      text-align: center }
+      </style>
+    </head>
+    <body>
+        <form method="POST">
+            <p><label>Ingresa en numero el dia de tu nacimiento</label>
+            <input type="text" name="dia"></p>
+            <p>
+            <label>Ingresa en letra el mes de tu nacimiento</label>
+            <input type="text" name="mes"></p>
+            <p><button type="submit">Buscar</button></p>
+        </form>
+        $zodiaco
+    </body>
+</html>
