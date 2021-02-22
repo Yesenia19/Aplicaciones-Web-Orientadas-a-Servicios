@@ -1,0 +1,3 @@
+Nombre: YeseniaOlvera, Fecha de nacimiento: 15/06/2001, Edad: 20
+Nombre: CarlosCruz, Fecha de nacimiento: 20/03/2005, Edad: 16
+Nombre: EstebanMarquez, Fecha de nacimiento: 13/09/2008, Edad: 13
